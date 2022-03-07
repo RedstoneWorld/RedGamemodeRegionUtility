@@ -1,0 +1,8 @@
+name: RedGRU
+version: '${project.version}'
+main: me.itsjbey.redgru.RedGRU
+api-version: 1.17
+depend:
+  - WorldGuard
+commands:
+  redgru:
